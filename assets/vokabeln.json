@@ -1,6 +1,349 @@
 [
     {
         "thema": "Türkisch",
+        "frage": "sitem",
+        "antwort": "vorwurf",
+        "phase": "1",
+        "naechsteabfrage": "11.6.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "yıkım",
+        "antwort": "Vernichtung",
+        "phase": "1",
+        "naechsteabfrage": "13.6.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "gezip",
+        "antwort": "Spaziergang, Reise",
+        "phase": "1",
+        "naechsteabfrage": "13.6.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "değdirmek",
+        "antwort": "berühren",
+        "phase": "1",
+        "naechsteabfrage": "13.6.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "dolaş",
+        "antwort": "herumwandern",
+        "phase": "1",
+        "naechsteabfrage": "13.6.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "ustalık",
+        "antwort": "Geschick",
+        "phase": "1",
+        "naechsteabfrage": "15.6.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "kandırarak",
+        "antwort": "trick, täuschen",
+        "phase": "1",
+        "naechsteabfrage": "23.6.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "sınır",
+        "antwort": "Grenze",
+        "phase": "1",
+        "naechsteabfrage": "23.6.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "aşarak",
+        "antwort": "Überschreitung",
+        "phase": "1",
+        "naechsteabfrage": "23.6.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "taşar",
+        "antwort": "überläufen",
+        "phase": "1",
+        "naechsteabfrage": "23.6.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "bulanık",
+        "antwort": "verschwommenes,",
+        "phase": "1",
+        "naechsteabfrage": "24.6.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "soygun",
+        "antwort": "Raub",
+        "phase": "1",
+        "naechsteabfrage": "25.6.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "mutlaka",
+        "antwort": "definitiv",
+        "phase": "1",
+        "naechsteabfrage": "25.6.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "berbat",
+        "antwort": "erbärmlich",
+        "phase": "1",
+        "naechsteabfrage": "25.6.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "vosvos",
+        "antwort": "Käfer",
+        "phase": "1",
+        "naechsteabfrage": "25.6.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "nabız",
+        "antwort": "Puls",
+        "phase": "1",
+        "naechsteabfrage": "25.6.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "karşılaştırmak",
+        "antwort": "vergleichen",
+        "phase": "1",
+        "naechsteabfrage": "26.6.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "yarıda",
+        "antwort": "mitten drin",
+        "phase": "1",
+        "naechsteabfrage": "1.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "damak",
+        "antwort": "Gaumen",
+        "phase": "1",
+        "naechsteabfrage": "1.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "üstüme",
+        "antwort": "auf mir",
+        "phase": "1",
+        "naechsteabfrage": "1.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "inatlaşmak",
+        "antwort": "stur zu sein",
+        "phase": "1",
+        "naechsteabfrage": "1.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "inat",
+        "antwort": "Sturheit",
+        "phase": "1",
+        "naechsteabfrage": "1.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "firar",
+        "antwort": "Flucht",
+        "phase": "1",
+        "naechsteabfrage": "2.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "densiz",
+        "antwort": "unintelligent, blöd",
+        "phase": "1",
+        "naechsteabfrage": "2.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "viran",
+        "antwort": "trostlos, katastrophal",
+        "phase": "1",
+        "naechsteabfrage": "2.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "şahidim",
+        "antwort": "bezeugen",
+        "phase": "1",
+        "naechsteabfrage": "2.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "hançer",
+        "antwort": "Dolch",
+        "phase": "1",
+        "naechsteabfrage": "2.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "yarışma",
+        "antwort": "Wettbewerb",
+        "phase": "1",
+        "naechsteabfrage": "4.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "çakırkeyif",
+        "antwort": "beschwipst",
+        "phase": "1",
+        "naechsteabfrage": "4.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "karakolu",
+        "antwort": "Polizeistation",
+        "phase": "1",
+        "naechsteabfrage": "5.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "düzen",
+        "antwort": "die Ordnung",
+        "phase": "1",
+        "naechsteabfrage": "5.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "mantık",
+        "antwort": "Logik",
+        "phase": "1",
+        "naechsteabfrage": "5.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "savur",
+        "antwort": "wirf weg",
+        "phase": "1",
+        "naechsteabfrage": "7.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "fırlatmak",
+        "antwort": "starten, werfen",
+        "phase": "1",
+        "naechsteabfrage": "8.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "kurşu",
+        "antwort": "Kugel, Geschoß",
+        "phase": "1",
+        "naechsteabfrage": "8.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "çizilmak",
+        "antwort": "zeichnen",
+        "phase": "1",
+        "naechsteabfrage": "8.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "kimlik",
+        "antwort": "der Ausweis",
+        "phase": "1",
+        "naechsteabfrage": "9.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "dava",
+        "antwort": "Gerichtsfall",
+        "phase": "1",
+        "naechsteabfrage": "9.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "Yorum yok",
+        "antwort": "Kein Kommentar",
+        "phase": "1",
+        "naechsteabfrage": "9.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "tarikat",
+        "antwort": "Sekte",
+        "phase": "1",
+        "naechsteabfrage": "9.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "hassas",
+        "antwort": "fein",
+        "phase": "1",
+        "naechsteabfrage": "9.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "topla kendini",
+        "antwort": "reißen Sie sich zusammen",
+        "phase": "1",
+        "naechsteabfrage": "9.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "sürtük",
+        "antwort": "schlampe",
+        "phase": "1",
+        "naechsteabfrage": "9.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "Umurum",
+        "antwort": "es ist mir wichtig",
+        "phase": "1",
+        "naechsteabfrage": "9.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "ödünç",
+        "antwort": "Ausleihen",
+        "phase": "1",
+        "naechsteabfrage": "10.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "netleşmek",
+        "antwort": "klären",
+        "phase": "1",
+        "naechsteabfrage": "13.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "şebeke",
+        "antwort": "Gitter, Netzwerk",
+        "phase": "1",
+        "naechsteabfrage": "14.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "tükürük",
+        "antwort": "Speichel",
+        "phase": "1",
+        "naechsteabfrage": "14.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "tutacak",
+        "antwort": "griff",
+        "phase": "1",
+        "naechsteabfrage": "14.7.2025"
+    },
+    {
+        "thema": "Türkisch",
         "frage": "Adam ne yapıyor?",
         "antwort": "Was macht der Mann?",
         "phase": "6",
@@ -3411,9 +3754,9 @@
     {
         "thema": "Türkisch",
         "frage": "zeki",
-        "antwort": "schlau",
+        "antwort": "intelligent",
         "phase": "1",
-        "naechsteabfrage": "15.5.2023"
+        "naechsteabfrage": "12.4.2025"
     },
     {
         "thema": "Türkisch",
@@ -5742,7 +6085,7 @@
     {
         "thema": "Türkisch",
         "frage": "yıkanmak",
-        "antwort": "gewaschen werden",
+        "antwort": "waschen",
         "phase": "2",
         "naechsteabfrage": "16.9.2023"
     },
@@ -6555,8 +6898,8 @@
         "thema": "Türkisch",
         "frage": "pahalı",
         "antwort": "teuer",
-        "phase": "6",
-        "naechsteabfrage": "26.9.2024"
+        "phase": "1",
+        "naechsteabfrage": "4.8.2025"
     },
     {
         "thema": "Türkisch",
@@ -10245,7 +10588,7 @@
         "frage": "süre",
         "antwort": "Dauer",
         "phase": "1",
-        "naechsteabfrage": "15.5.2023"
+        "naechsteabfrage": "23.6.2025"
     },
     {
         "thema": "Türkisch",
@@ -10943,9 +11286,9 @@
     {
         "thema": "Türkisch",
         "frage": "dolaşmak",
-        "antwort": "wandern",
-        "phase": "0",
-        "naechsteabfrage": ""
+        "antwort": "spazieren gehen",
+        "phase": "1",
+        "naechsteabfrage": "6.5.2025"
     },
     {
         "thema": "Türkisch",
@@ -11098,8 +11441,8 @@
         "thema": "Türkisch",
         "frage": "kutsal",
         "antwort": "heilig",
-        "phase": "0",
-        "naechsteabfrage": ""
+        "phase": "1",
+        "naechsteabfrage": "5.4.2025"
     },
     {
         "thema": "Türkisch",
@@ -11224,8 +11567,8 @@
         "thema": "Türkisch",
         "frage": "etkilemek",
         "antwort": "beeinflussen",
-        "phase": "0",
-        "naechsteabfrage": ""
+        "phase": "1",
+        "naechsteabfrage": "4.7.2025"
     },
     {
         "thema": "Türkisch",
@@ -11251,9 +11594,9 @@
     {
         "thema": "Türkisch",
         "frage": "zaten",
-        "antwort": "ohnehin, schon, sowieso",
-        "phase": "6",
-        "naechsteabfrage": "8.6.2025"
+        "antwort": "bereits",
+        "phase": "1",
+        "naechsteabfrage": "15.4.2025"
     },
     {
         "thema": "Türkisch",
@@ -12161,9 +12504,9 @@
     {
         "thema": "Türkisch",
         "frage": "tuhaf",
-        "antwort": "seltsam",
-        "phase": "0",
-        "naechsteabfrage": ""
+        "antwort": "Tuhaf",
+        "phase": "1",
+        "naechsteabfrage": "9.7.2025"
     },
     {
         "thema": "Türkisch",
@@ -12463,8 +12806,8 @@
         "thema": "Türkisch",
         "frage": "Hasret",
         "antwort": "Sehnsucht",
-        "phase": "0",
-        "naechsteabfrage": ""
+        "phase": "1",
+        "naechsteabfrage": "27.5.2025"
     },
     {
         "thema": "Türkisch",
@@ -12504,9 +12847,9 @@
     {
         "thema": "Türkisch",
         "frage": "saklı",
-        "antwort": "versteckt",
-        "phase": "0",
-        "naechsteabfrage": ""
+        "antwort": "ausgeblendet, versteckt",
+        "phase": "1",
+        "naechsteabfrage": "31.5.2025"
     },
     {
         "thema": "Türkisch",
@@ -13366,8 +13709,8 @@
         "thema": "Türkisch",
         "frage": "düşmek",
         "antwort": "fallen",
-        "phase": "2",
-        "naechsteabfrage": "22.8.2024"
+        "phase": "1",
+        "naechsteabfrage": "2.7.2025"
     },
     {
         "thema": "Türkisch",
@@ -13786,8 +14129,8 @@
         "thema": "Türkisch",
         "frage": "Arsız",
         "antwort": "frech",
-        "phase": "0",
-        "naechsteabfrage": ""
+        "phase": "1",
+        "naechsteabfrage": "2.7.2025"
     },
     {
         "thema": "Türkisch",
@@ -14087,8 +14430,8 @@
         "thema": "Türkisch",
         "frage": "taşımak",
         "antwort": "tragen",
-        "phase": "0",
-        "naechsteabfrage": ""
+        "phase": "1",
+        "naechsteabfrage": "25.5.2025"
     },
     {
         "thema": "Türkisch",
@@ -14429,9 +14772,9 @@
     {
         "thema": "Türkisch",
         "frage": "bağırmak",
-        "antwort": "schreien",
-        "phase": "0",
-        "naechsteabfrage": ""
+        "antwort": "brüllen",
+        "phase": "1",
+        "naechsteabfrage": "3.5.2025"
     },
     {
         "thema": "Türkisch",
@@ -15444,9 +15787,9 @@
     {
         "thema": "Türkisch",
         "frage": "mükemmel",
-        "antwort": "perfekt",
-        "phase": "0",
-        "naechsteabfrage": ""
+        "antwort": "Ausgezeichnet, perfekt",
+        "phase": "1",
+        "naechsteabfrage": "24.6.2025"
     },
     {
         "thema": "Türkisch",
@@ -15697,8 +16040,8 @@
         "thema": "Türkisch",
         "frage": "atmak",
         "antwort": "werfen",
-        "phase": "6",
-        "naechsteabfrage": "5.12.2025"
+        "phase": "1",
+        "naechsteabfrage": "19.5.2025"
     },
     {
         "thema": "Türkisch",
@@ -15914,8 +16257,8 @@
         "thema": "Türkisch",
         "frage": "arzu",
         "antwort": "Wunsch",
-        "phase": "0",
-        "naechsteabfrage": ""
+        "phase": "1",
+        "naechsteabfrage": "15.4.2025"
     },
     {
         "thema": "Türkisch",
@@ -16004,9 +16347,9 @@
     {
         "thema": "Türkisch",
         "frage": "kurtulmak",
-        "antwort": "gerettet werden",
-        "phase": "0",
-        "naechsteabfrage": ""
+        "antwort": "loswerden, retten",
+        "phase": "1",
+        "naechsteabfrage": "22.7.2025"
     },
     {
         "thema": "Türkisch",
@@ -16544,8 +16887,8 @@
         "thema": "Türkisch",
         "frage": "Hazine",
         "antwort": "Schatz",
-        "phase": "0",
-        "naechsteabfrage": ""
+        "phase": "1",
+        "naechsteabfrage": "15.4.2025"
     },
     {
         "thema": "Türkisch",
@@ -16585,9 +16928,9 @@
     {
         "thema": "Türkisch",
         "frage": "telaş",
-        "antwort": "Aufregung, Besorgnis",
-        "phase": "0",
-        "naechsteabfrage": ""
+        "antwort": "Aufregung, Sorgen",
+        "phase": "1",
+        "naechsteabfrage": "11.6.2025"
     },
     {
         "thema": "Türkisch",
@@ -16991,9 +17334,9 @@
     {
         "thema": "Türkisch",
         "frage": "Kanıt",
-        "antwort": "Beweis",
-        "phase": "0",
-        "naechsteabfrage": ""
+        "antwort": "Nachweise",
+        "phase": "1",
+        "naechsteabfrage": "29.5.2025"
     },
     {
         "thema": "Türkisch",
@@ -17020,8 +17363,8 @@
         "thema": "Türkisch",
         "frage": "Tesadüf",
         "antwort": "Zufall",
-        "phase": "0",
-        "naechsteabfrage": ""
+        "phase": "1",
+        "naechsteabfrage": "5.4.2025"
     },
     {
         "thema": "Türkisch",
@@ -17376,16 +17719,16 @@
     {
         "thema": "Türkisch",
         "frage": "toplamak",
-        "antwort": "sammeln",
-        "phase": "6",
-        "naechsteabfrage": "26.1.2026"
+        "antwort": "addieren, sammeln",
+        "phase": "1",
+        "naechsteabfrage": "4.8.2025"
     },
     {
         "thema": "Türkisch",
         "frage": "yaratık",
-        "antwort": "Kratur",
-        "phase": "0",
-        "naechsteabfrage": ""
+        "antwort": "kreatur",
+        "phase": "1",
+        "naechsteabfrage": "5.4.2025"
     },
     {
         "thema": "Türkisch",
@@ -17684,9 +18027,9 @@
     {
         "thema": "Türkisch",
         "frage": "zarar",
-        "antwort": "Schaden",
-        "phase": "5",
-        "naechsteabfrage": "8.6.2025"
+        "antwort": "Beschädigung",
+        "phase": "2",
+        "naechsteabfrage": "26.5.2025"
     },
     {
         "thema": "Türkisch",
@@ -18041,16 +18384,198 @@
     {
         "thema": "Türkisch",
         "frage": "Gezi",
-        "antwort": "Reise",
+        "antwort": "der Ausflug",
         "phase": "1",
-        "naechsteabfrage": "29.3.2025"
+        "naechsteabfrage": "15.4.2025"
     },
     {
         "thema": "Türkisch",
         "frage": "alışkanlık",
-        "antwort": "Gewohnheit",
+        "antwort": "Gewohnheıt",
         "phase": "1",
-        "naechsteabfrage": "29.3.2025"
+        "naechsteabfrage": "3.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "daliş",
+        "antwort": "tauchen",
+        "phase": "1",
+        "naechsteabfrage": "15.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "lideri",
+        "antwort": "führer",
+        "phase": "1",
+        "naechsteabfrage": "15.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "kasten",
+        "antwort": "bewusst",
+        "phase": "1",
+        "naechsteabfrage": "15.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "muhtemelen",
+        "antwort": "wahrscheinlich",
+        "phase": "1",
+        "naechsteabfrage": "15.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "cöp",
+        "antwort": "müll",
+        "phase": "1",
+        "naechsteabfrage": "15.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "diz çöktü",
+        "antwort": "niederknien",
+        "phase": "1",
+        "naechsteabfrage": "15.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "kaldırmak",
+        "antwort": "entfernen",
+        "phase": "1",
+        "naechsteabfrage": "21.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "olmadan",
+        "antwort": "ohne",
+        "phase": "1",
+        "naechsteabfrage": "21.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "nasılsa",
+        "antwort": "irgendwie",
+        "phase": "1",
+        "naechsteabfrage": "21.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "mahsuru",
+        "antwort": "ungünstig",
+        "phase": "1",
+        "naechsteabfrage": "22.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "kurtuluş",
+        "antwort": "Befreinung, Erlösung",
+        "phase": "1",
+        "naechsteabfrage": "22.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "epey",
+        "antwort": "ganz",
+        "phase": "1",
+        "naechsteabfrage": "22.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "pek",
+        "antwort": "sehr",
+        "phase": "1",
+        "naechsteabfrage": "22.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "ifade",
+        "antwort": "die Aussage",
+        "phase": "1",
+        "naechsteabfrage": "22.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "sinir",
+        "antwort": "Nerv, Wut",
+        "phase": "1",
+        "naechsteabfrage": "22.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "feryat",
+        "antwort": "wehklagen",
+        "phase": "1",
+        "naechsteabfrage": "22.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "iade",
+        "antwort": "erstattet, Rückkehr",
+        "phase": "1",
+        "naechsteabfrage": "22.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "kiracı",
+        "antwort": "Mieter",
+        "phase": "1",
+        "naechsteabfrage": "22.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "acıyorum",
+        "antwort": "es tut mir leid",
+        "phase": "1",
+        "naechsteabfrage": "22.7.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "pahasına",
+        "antwort": "zulasten von",
+        "phase": "1",
+        "naechsteabfrage": "4.8.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "Yarar",
+        "antwort": "Vorteil",
+        "phase": "1",
+        "naechsteabfrage": "4.8.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "emrin",
+        "antwort": "bestellung",
+        "phase": "1",
+        "naechsteabfrage": "4.8.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "yakışmak",
+        "antwort": "geziemen",
+        "phase": "1",
+        "naechsteabfrage": "4.8.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "çızmak",
+        "antwort": "ziehen",
+        "phase": "1",
+        "naechsteabfrage": "4.8.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "yaralanmak",
+        "antwort": "zu verletzen",
+        "phase": "1",
+        "naechsteabfrage": "4.8.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "tohum",
+        "antwort": "Samen",
+        "phase": "1",
+        "naechsteabfrage": "9.8.2025"
     },
     {
         "thema": "Türkisch",
@@ -18093,5 +18618,628 @@
         "antwort": "Teilen",
         "phase": "1",
         "naechsteabfrage": "29.3.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "zihinsel",
+        "antwort": "mental",
+        "phase": "1",
+        "naechsteabfrage": "5.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "hemfikir",
+        "antwort": "stimme zu",
+        "phase": "1",
+        "naechsteabfrage": "5.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "lanet",
+        "antwort": "fluch",
+        "phase": "1",
+        "naechsteabfrage": "5.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "miadın",
+        "antwort": "ablaufdatum",
+        "phase": "1",
+        "naechsteabfrage": "5.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "enfes",
+        "antwort": "Köstlich!",
+        "phase": "1",
+        "naechsteabfrage": "5.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "idrak",
+        "antwort": "verständnis",
+        "phase": "1",
+        "naechsteabfrage": "5.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "zekâ",
+        "antwort": "Intelligenz",
+        "phase": "1",
+        "naechsteabfrage": "5.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "Yadigar",
+        "antwort": "trophäen",
+        "phase": "1",
+        "naechsteabfrage": "5.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "katil",
+        "antwort": "Mörder",
+        "phase": "1",
+        "naechsteabfrage": "5.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "cankurtaran",
+        "antwort": "Rettungsschwimmer",
+        "phase": "1",
+        "naechsteabfrage": "5.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "kahretsin",
+        "antwort": "verdammt noch mal",
+        "phase": "1",
+        "naechsteabfrage": "8.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "rengarenk",
+        "antwort": "bunt",
+        "phase": "1",
+        "naechsteabfrage": "9.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "yaslamak",
+        "antwort": "anlehnen",
+        "phase": "1",
+        "naechsteabfrage": "9.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "zarifçe",
+        "antwort": "elegant",
+        "phase": "1",
+        "naechsteabfrage": "9.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "süzülmek",
+        "antwort": "gleiten",
+        "phase": "1",
+        "naechsteabfrage": "9.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "denizanası",
+        "antwort": "Qualle",
+        "phase": "1",
+        "naechsteabfrage": "9.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "Sanki",
+        "antwort": "Als ob",
+        "phase": "1",
+        "naechsteabfrage": "9.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "hareket",
+        "antwort": "die Bewegung",
+        "phase": "1",
+        "naechsteabfrage": "9.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "zehir",
+        "antwort": "Gift",
+        "phase": "1",
+        "naechsteabfrage": "11.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "Kabuklular",
+        "antwort": "Krebstiere",
+        "phase": "1",
+        "naechsteabfrage": "11.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "kaldırırken",
+        "antwort": "beim Heben",
+        "phase": "1",
+        "naechsteabfrage": "11.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "balina",
+        "antwort": "Wal",
+        "phase": "1",
+        "naechsteabfrage": "11.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "kayalar",
+        "antwort": "Felsen",
+        "phase": "1",
+        "naechsteabfrage": "11.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "kıvrı",
+        "antwort": "kräuselung",
+        "phase": "1",
+        "naechsteabfrage": "11.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "Güncel",
+        "antwort": "Aktuell",
+        "phase": "1",
+        "naechsteabfrage": "13.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "taşırmak",
+        "antwort": "tragen, austragen",
+        "phase": "1",
+        "naechsteabfrage": "14.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "yüzgeçler",
+        "antwort": "flossen",
+        "phase": "1",
+        "naechsteabfrage": "15.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "ekliyorum",
+        "antwort": "ich füge hinzu",
+        "phase": "1",
+        "naechsteabfrage": "15.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "uzanmak",
+        "antwort": "hinlegen",
+        "phase": "1",
+        "naechsteabfrage": "15.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "Alnın",
+        "antwort": "Stirn",
+        "phase": "1",
+        "naechsteabfrage": "15.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "aklında",
+        "antwort": "im Kopf",
+        "phase": "1",
+        "naechsteabfrage": "15.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "ucunda",
+        "antwort": "am Ende",
+        "phase": "1",
+        "naechsteabfrage": "17.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "kaynak",
+        "antwort": "Fels",
+        "phase": "1",
+        "naechsteabfrage": "22.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "yüzgeç",
+        "antwort": "Flosse",
+        "phase": "1",
+        "naechsteabfrage": "22.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "dayanık",
+        "antwort": "langlebig",
+        "phase": "1",
+        "naechsteabfrage": "27.4.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "ovuşturmak",
+        "antwort": "reiben",
+        "phase": "1",
+        "naechsteabfrage": "1.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "silmek",
+        "antwort": "wischen",
+        "phase": "1",
+        "naechsteabfrage": "3.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "ovmak",
+        "antwort": "scheuern, reiben",
+        "phase": "1",
+        "naechsteabfrage": "3.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "bilek",
+        "antwort": "Handgelenk",
+        "phase": "1",
+        "naechsteabfrage": "3.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "tırnak",
+        "antwort": "der Fingernagel",
+        "phase": "1",
+        "naechsteabfrage": "3.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "Mırıldanma",
+        "antwort": "Summen, murmeln",
+        "phase": "1",
+        "naechsteabfrage": "3.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "karıncalanma",
+        "antwort": "Kribbeln",
+        "phase": "1",
+        "naechsteabfrage": "6.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "uç",
+        "antwort": "Ende, fliegen",
+        "phase": "1",
+        "naechsteabfrage": "6.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "birbirine",
+        "antwort": "einander, gegenseitig",
+        "phase": "1",
+        "naechsteabfrage": "6.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "titreşim",
+        "antwort": "Vibration",
+        "phase": "1",
+        "naechsteabfrage": "6.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "sekmek",
+        "antwort": "hüpfen",
+        "phase": "1",
+        "naechsteabfrage": "6.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "bilim kurgu filmi",
+        "antwort": "science-Fiction-Film",
+        "phase": "1",
+        "naechsteabfrage": "6.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "zıplayarak",
+        "antwort": "springen",
+        "phase": "1",
+        "naechsteabfrage": "6.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "tüylü",
+        "antwort": "haarig",
+        "phase": "1",
+        "naechsteabfrage": "6.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "sindirim",
+        "antwort": "Verdauung",
+        "phase": "1",
+        "naechsteabfrage": "6.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "pislik",
+        "antwort": "böse, schlimm",
+        "phase": "1",
+        "naechsteabfrage": "7.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "Baloncuklar",
+        "antwort": "Luftblasen",
+        "phase": "1",
+        "naechsteabfrage": "7.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "Aşırı",
+        "antwort": "extrem",
+        "phase": "1",
+        "naechsteabfrage": "7.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "batırmak",
+        "antwort": "untertauchen",
+        "phase": "1",
+        "naechsteabfrage": "12.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "keman",
+        "antwort": "Violine",
+        "phase": "1",
+        "naechsteabfrage": "12.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "öfke",
+        "antwort": "Wut",
+        "phase": "1",
+        "naechsteabfrage": "12.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "yenilgi",
+        "antwort": "Niederlage",
+        "phase": "1",
+        "naechsteabfrage": "12.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "kırıklık",
+        "antwort": "fraktur",
+        "phase": "1",
+        "naechsteabfrage": "12.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "yayılmak",
+        "antwort": "verbreiten",
+        "phase": "1",
+        "naechsteabfrage": "19.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "çarptırmak",
+        "antwort": "schlagen, treffen",
+        "phase": "1",
+        "naechsteabfrage": "19.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "gömmek",
+        "antwort": "vergraben",
+        "phase": "1",
+        "naechsteabfrage": "19.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "yaldızlı",
+        "antwort": "vergoldet",
+        "phase": "1",
+        "naechsteabfrage": "19.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "parlamak",
+        "antwort": "Glanz",
+        "phase": "1",
+        "naechsteabfrage": "19.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "savrulmak",
+        "antwort": "wegwehen, schleudern",
+        "phase": "1",
+        "naechsteabfrage": "19.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "şantiye",
+        "antwort": "Baustelle",
+        "phase": "1",
+        "naechsteabfrage": "19.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "neredeyse",
+        "antwort": "fast, nahezu",
+        "phase": "1",
+        "naechsteabfrage": "19.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "halat",
+        "antwort": "Seil",
+        "phase": "1",
+        "naechsteabfrage": "25.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "ipler",
+        "antwort": "seile",
+        "phase": "1",
+        "naechsteabfrage": "25.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "madem",
+        "antwort": "wenn, seit",
+        "phase": "1",
+        "naechsteabfrage": "25.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "çekiç",
+        "antwort": "Hammer",
+        "phase": "1",
+        "naechsteabfrage": "25.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "ölçüm",
+        "antwort": "Messung",
+        "phase": "1",
+        "naechsteabfrage": "25.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "işaret",
+        "antwort": "Zeichen, Markierung",
+        "phase": "1",
+        "naechsteabfrage": "25.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "resmen",
+        "antwort": "offiziell, buchstäblich",
+        "phase": "1",
+        "naechsteabfrage": "25.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "bizzat",
+        "antwort": "persönlich",
+        "phase": "1",
+        "naechsteabfrage": "29.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "defolup",
+        "antwort": "hau ab",
+        "phase": "1",
+        "naechsteabfrage": "29.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "ceset",
+        "antwort": "Leichnam",
+        "phase": "1",
+        "naechsteabfrage": "29.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "pişman",
+        "antwort": "bedauern",
+        "phase": "1",
+        "naechsteabfrage": "29.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "telaf",
+        "antwort": "vergütung",
+        "phase": "1",
+        "naechsteabfrage": "29.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "tam ısabet",
+        "antwort": "exakter Treffer",
+        "phase": "1",
+        "naechsteabfrage": "29.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "asabi",
+        "antwort": "nervös",
+        "phase": "1",
+        "naechsteabfrage": "29.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "zavalli",
+        "antwort": "das arme Ding",
+        "phase": "1",
+        "naechsteabfrage": "29.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "tanrı aşkına",
+        "antwort": "um Gottes willen",
+        "phase": "1",
+        "naechsteabfrage": "29.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "ulu tanrım",
+        "antwort": "großer Gott",
+        "phase": "1",
+        "naechsteabfrage": "29.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "afet",
+        "antwort": "Katastrophe",
+        "phase": "1",
+        "naechsteabfrage": "31.5.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "delermek",
+        "antwort": "durchbohren",
+        "phase": "1",
+        "naechsteabfrage": "7.6.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "küre",
+        "antwort": "Kugel",
+        "phase": "1",
+        "naechsteabfrage": "7.6.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "kahpe",
+        "antwort": "verlogen",
+        "phase": "1",
+        "naechsteabfrage": "7.6.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "kuyu",
+        "antwort": "Brunnen",
+        "phase": "1",
+        "naechsteabfrage": "7.6.2025"
+    },
+    {
+        "thema": "Türkisch",
+        "frage": "sarmak",
+        "antwort": "einwickeln",
+        "phase": "1",
+        "naechsteabfrage": "11.6.2025"
     }
 ]
